@@ -42,6 +42,14 @@ Lecture 4: Model-Free Prediction by David Silver
     - Update value V(s) for every state s
     - In proportion to TD-error δt and eligibility trace
     
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-07-Model-Free-Prediction/blob/master/readme_img/%CE%BB-return.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-07-Model-Free-Prediction/blob/master/readme_img/Forward-view%20TD(%CE%BB).png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-07-Model-Free-Prediction/blob/master/readme_img/Eligibility%20Traces.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-07-Model-Free-Prediction/blob/master/readme_img/Backward%20View%20TD(%CE%BB).png" width = "70%" height = "70%" div align=center />
+    
 - Advantages and Disadvantages of MC vs. TD
   - TD can learn before knowing the final outcome
     - TD can learn online after every step
@@ -78,3 +86,5 @@ Lecture 4: Model-Free Prediction by David Silver
   - MC samples
   - DP does not sample
   - TD samples
+  
+  
