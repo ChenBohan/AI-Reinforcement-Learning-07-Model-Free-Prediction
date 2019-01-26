@@ -1,6 +1,10 @@
 # AI-Reinforcement-Learning-07-Model-Free-Prediction
 Lecture 4: Model-Free Prediction by David Silver
 
+Website: http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+
+Videos: https://www.bilibili.com/video/av32149008/?p=4
+
 - Monte-Carlo Reinforcement Learning
   - MC methods learn directly from episodes of experience
   - MC is model-free:
